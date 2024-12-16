@@ -1,0 +1,1 @@
+nohup java -jar /tmp/calculadora/target/quarkus-app/quarkus-run.jar > /tmp/calculadora.logs &
